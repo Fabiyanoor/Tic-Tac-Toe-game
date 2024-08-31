@@ -1,3 +1,4 @@
+// JAVA SCRIPT CODE
 let boxes= document.querySelectorAll(".box");
 let reset=document.querySelector("#reset");
 let newgame=document.querySelector("#new");
